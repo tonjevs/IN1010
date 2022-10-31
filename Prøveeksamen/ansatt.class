@@ -1,0 +1,9 @@
+abstract class Ansatt{
+    final String ansattidentifikajson;
+    final String navn;
+
+    Ansantt(String a, String n){
+        this.ansattidentifikajson = a;
+        this.navn = n;
+    }
+}

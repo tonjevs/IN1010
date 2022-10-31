@@ -1,0 +1,3 @@
+interface MidtgangSete{
+    boolean erVedMidtgang();
+}
